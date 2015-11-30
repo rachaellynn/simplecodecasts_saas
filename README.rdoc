@@ -1,5 +1,8 @@
 == README
 
+This is a rails sass application from the Udemy rails course
+www.codermanual.com
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
